@@ -1,0 +1,6 @@
+ [Key.print_screen]  [Key.right]  [BACKSPACE] 2
+cybe [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE] cyber nacyber security 1` [Key.ctrl_l] 
+[Key.ctrl_l]  [Key.alt_l]  [Key.alt_l]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc]  
+[Key.esc]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc] 
+ [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc]  
+ [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc] 
